@@ -7,12 +7,12 @@ public class MediaIdade {
         Scanner tec = new Scanner(System .in);
 
         float idade, media;
-        float cont = 0;
+        int cont = 0;
         float soma = 0;
       
 
         System.out.println("Digite as idades ");
-        idade = tec.nextInt();
+        idade = tec.nextFloat();
 
         //Lógica While
     while (idade >= 0) {
@@ -20,7 +20,7 @@ public class MediaIdade {
     cont = cont + 1;
     soma = soma + idade;
     
-    idade = tec.nextInt();
+    idade = tec.nextFloat();
 
     }
     //Lógica if else
