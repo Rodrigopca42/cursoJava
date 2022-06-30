@@ -15,7 +15,8 @@ public class Quadrante {
         int x = Integer.parseInt(x1);
         int y = Integer.parseInt(y1);
 
-        while (x != 0 || y != 0) {
+        while (x != 0 && y != 0) {
+            
             if (x > 0 && y > 0) {
                 System.out.println("Quadrante Q1");
             } else if (x < 0 && y > 0){
@@ -34,7 +35,7 @@ public class Quadrante {
             y = tec.nextInt();
 
 
-            tec.close();
         }
+        // tec.close();
     }
 }
