@@ -1,0 +1,112 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "loop.Calculadora",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Combustivel",
+            "request": "launch",
+            "mainClass": "loop.Combustivel",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Crescente",
+            "request": "launch",
+            "mainClass": "loop.Crescente",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch DentrFora",
+            "request": "launch",
+            "mainClass": "loop.DentrFora",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiasDaSemana",
+            "request": "launch",
+            "mainClass": "loop.DiasDaSemana",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch For",
+            "request": "launch",
+            "mainClass": "loop.For",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfElse",
+            "request": "launch",
+            "mainClass": "loop.IfElse",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch MediaIdade",
+            "request": "launch",
+            "mainClass": "loop.MediaIdade",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParesConsecutivos",
+            "request": "launch",
+            "mainClass": "loop.ParesConsecutivos",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quadrante",
+            "request": "launch",
+            "mainClass": "loop.Quadrante",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch SenhaFixa",
+            "request": "launch",
+            "mainClass": "loop.SenhaFixa",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch SomaImpares",
+            "request": "launch",
+            "mainClass": "loop.SomaImpares",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tabuada",
+            "request": "launch",
+            "mainClass": "loop.Tabuada",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidacaoDeNota",
+            "request": "launch",
+            "mainClass": "loop.ValidacaoDeNota",
+            "projectName": "cursoJava_1a33feb9"
+        }
+    ]
+}
