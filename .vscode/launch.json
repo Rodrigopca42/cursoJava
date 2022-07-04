@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Fatorial",
+            "request": "launch",
+            "mainClass": "loop.Fatorial",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Divisao",
+            "request": "launch",
+            "mainClass": "loop.Divisao",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
             "name": "Launch MediaPonderada",
             "request": "launch",
             "mainClass": "loop.MediaPonderada",
