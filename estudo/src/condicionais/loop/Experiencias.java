@@ -32,8 +32,7 @@ public class Experiencias {
          Scanner tec = new Scanner(System.in);
          
          
-         int 
-          i,  quantidade, totalratos, totalsapos, totalcoelhos;
+         int i,  quantidade, totalratos, totalsapos, totalcoelhos;
         float pratos, psapos, pcoelhos, total;
         String cobaias;
         
