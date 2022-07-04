@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MediaPonderada",
+            "request": "launch",
+            "mainClass": "loop.MediaPonderada",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
             "name": "Launch SequenciaImpares",
             "request": "launch",
             "mainClass": "loop.SequenciaImpares",
