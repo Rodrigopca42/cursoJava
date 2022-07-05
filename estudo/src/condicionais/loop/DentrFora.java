@@ -29,14 +29,14 @@ public class DentrFora {
 
             if(x >= 10 && x <= 20){
                 dentro = dentro + 1;
+                System.out.println(dentro +" DENTRO");
             } else {
                 fora = fora + 1;
             }
+            System.out.print(fora + " FORA");
 
         }
 
-        System.out.println(dentro +" DENTRO");
-        System.out.print(fora + " FORA");
 
 
         tec.close();
