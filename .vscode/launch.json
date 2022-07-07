@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AniversarioTeste",
+            "request": "launch",
+            "mainClass": "AniversarioTeste",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
             "name": "Launch Comemoracao",
             "request": "launch",
             "mainClass": "Comemoracao",

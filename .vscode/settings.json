@@ -78,7 +78,8 @@
         "vezes"
     ],
     "java.project.sourcePaths": [
+        "estudo/src/nacimento",
         "estudo/src/classe",
-        "estudo/src/data"
+        "estudo/src/nascimento/aniversario"
     ]
 }
