@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Comemoracao",
+            "request": "launch",
+            "mainClass": "Comemoracao",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProdutoTeste",
+            "request": "launch",
+            "mainClass": "ProdutoTeste",
+            "projectName": "cursoJava_1a33feb9"
+        },
+        {
+            "type": "java",
             "name": "Launch Experiencias",
             "request": "launch",
             "mainClass": "loop.Experiencias",

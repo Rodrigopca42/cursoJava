@@ -1,6 +1,8 @@
+
+
 public class Produto {
-    
-    public static void main(String[] args) {
-        
-    }
+
+    String nome; 
+    double preco, desconto;
+   
 }

@@ -76,5 +76,9 @@
         "Validacao",
         "valores",
         "vezes"
+    ],
+    "java.project.sourcePaths": [
+        "estudo/src/classe",
+        "estudo/src/data"
     ]
 }
