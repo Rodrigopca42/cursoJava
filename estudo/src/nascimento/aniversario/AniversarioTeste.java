@@ -21,6 +21,11 @@ public class AniversarioTeste {
 
        // int idadeAtual = ano - 2022;
 
-        System.out.println("%s nasceu em " +v1.dataNascimento());
+        System.out.println("");
+        System.out.println(v1.nome +" nasceu em " +v1.dataNascimento());
+        
+        System.out.println("Sua  idade é "+ v1.idadeAtual()+" anos.");
+        System.out.println("");
+
     }
 }

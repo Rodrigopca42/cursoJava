@@ -6,7 +6,7 @@ public class Nascimento {
     String nome;
 
      int idadeAtual(){
-    return ano - 2022;
+    return 2022 - ano;
 } 
 
     /**
