@@ -19,6 +19,8 @@ public class AniversarioTeste {
         r1.mes = 05;
         r1.ano = 1979;
 
+
+        
        // int idadeAtual = ano - 2022;
 
         System.out.println("");

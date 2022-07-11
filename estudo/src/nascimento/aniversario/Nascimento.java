@@ -1,4 +1,3 @@
-import java.lang.module.ResolutionException;
 
 public class Nascimento {
 
@@ -6,7 +5,7 @@ public class Nascimento {
     String nome;
 
      int idadeAtual(){
-    return 2022 - ano;
+    return  2022 - ano;
 } 
 
     /**
