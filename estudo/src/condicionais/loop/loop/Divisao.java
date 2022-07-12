@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class Divisao {
     
     
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         
         /*
